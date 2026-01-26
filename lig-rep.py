@@ -2,7 +2,6 @@
 """
 
 Author: Tohid Ghasemnejad
-Date: 2026
 """
 
 import scanpy as sc
